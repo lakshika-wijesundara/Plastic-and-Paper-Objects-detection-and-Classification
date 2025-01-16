@@ -1,4 +1,3 @@
-### README.md
 
 # Paper and Plastic Detection using YOLOv8
 
