@@ -147,12 +147,7 @@ Contributions are welcome! Please follow these steps:
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
 
-## Contact
 
-For queries or feedback, please contact [Lakshika Wijesundara](mailto:lakshikawijesundara@example.com).
 
----
 
-Happy Coding! 😊
